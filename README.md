@@ -1,6 +1,6 @@
 📄 AI Smart Paper Analyzer
 An AI-powered system for analyzing question papers and documents using NLP and Machine Learning.
-
+-------------------------------------------------
 🚀 Features
 ✅ Upload PDF, DOCX, TXT, and Image Files
 ✅ OCR Text Extraction from Images
@@ -12,7 +12,7 @@ An AI-powered system for analyzing question papers and documents using NLP and M
 ✅ Paragraph Generation
 ✅ Data Visualization & Insights
 ✅ User-Friendly GUI
-
+---------------------------------------------------
 🛠️ Technologies Used
 Python
 Tkinter
@@ -24,24 +24,28 @@ pytesseract
 Pillow (PIL)
 NLTK / spaCy
 Matplotlib
+------------------------------------------------
 ⚙️ How It Works
 Upload a document or question paper.
 Extract text using OCR and parsers.
 Analyze content using AI and NLP.
 Generate summaries and insights.
 Visualize results with charts and reports.
+-------------------------------------------------
 🎯 Applications
 Educational Institutions
 Students & Researchers
 Question Paper Analysis
 Academic Document Evaluation
 Research Paper Review
+--------------------------------------------------
 🌟 Benefits
 Saves Time
 Improves Analysis Accuracy
 Generates Smart Insights
 Supports Multiple File Formats
 Easy to Use
+-------------------------------------------------
 🔮 Future Enhancements
 Deep Learning Models
 Multi-Language Support
