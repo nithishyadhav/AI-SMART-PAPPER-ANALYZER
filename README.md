@@ -44,11 +44,6 @@ Document Evaluation
 ✅ Easy to Use
 ✅ Supports Multiple Formats
 
-🔮 Future Improvements
-AI Chat Assistant
-Multi-Language Support
-Cloud Integration
-Advanced Analytics Dashboard
 👨‍💻 Developed By
 AI Smart Paper Analyzer Project
 
